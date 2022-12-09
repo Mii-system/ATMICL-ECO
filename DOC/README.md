@@ -5,7 +5,5 @@
   + ATM-E StartG.pdf
 + Flyers
   + ATM-E Flyer1.pdf
-+ Manuals
-  +
++ Manual
 + Catalog
-  + ATM-E Catalog.pdf
