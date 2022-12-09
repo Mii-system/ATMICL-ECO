@@ -5,5 +5,5 @@
 - +DOC: Manuals  
 
 # はじめに
-- DOCフォルダの ATME StartG.pdf から始めてください
+- DOCフォルダの Start Guide から始めてください
 - DOCフォルダに 各機能の取扱説明があります
